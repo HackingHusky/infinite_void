@@ -1,5 +1,4 @@
-# 🫸🔴🫷🔵 Domain Expansion: Infinite Void (infinite_void.py)
-
+# Domain Expansion: Infinite Void (infinite_void.py)
 An ultra-fast, lightweight Active Directory object dumper forged with the absolute perception of Gojo Satoru. Designed specifically for the AD segments of **CPTS** and **OSCP**, this tool utilizes the `ldap3` engine to freeze a Domain Controller and strip it of all high-value targets instantly—bypassing the need for heavy, lagging third-party ingestion frameworks.
 
 
